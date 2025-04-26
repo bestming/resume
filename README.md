@@ -7,9 +7,9 @@
 
  - 韦相铭/男/1997-02-18 
  - 本科（2016-2020）/河池学院/计算机科学与技术
- - 工作年限：2年
+ - 工作年限：5年
  - 邮箱：bestmingdev@outlook.com
- - 个人博客（技术分享、读书笔记、生活感悟）：[106.55.199.68:9821](http://106.55.199.68:9821/)，[www.bestming.cn](http://www.bestming.cn/)
+ - 个人博客（技术分享、读书笔记、生活感悟）：[117.72.124.80](http://117.72.124.80/)
  - Github：[github.com/bestming](https://github.com/bestming)
 
 
